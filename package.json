@@ -1,0 +1,19 @@
+{
+  "name": "parceljs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^8.0.0",
+    "babel-preset-env": "^1.6.1",
+    "element-ui": "^2.2.0",
+    "parcel-bundler": "^1.6.2",
+    "parcel-plugin-vue": "^1.5.0",
+    "postcss-modules": "^1.1.0",
+    "vue": "^2.5.13",
+    "vue-template-compiler": "^2.5.13"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0"
+  }
+}
